@@ -1,1 +1,2 @@
-# Latihan-GIT
+# Latihan-GIMP
+
